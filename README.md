@@ -1,5 +1,7 @@
 # Hi everyone 👋
 
+## Nostradamus
+
 I´m Sebastian Acosta Alonso (25yo) a fullstack web developer based in Perú, currently working as a freelance.
 I mainly code with JavaScript and Node.js, but i am always learning new stuff and frameworks.
 
