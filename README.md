@@ -5,7 +5,7 @@ I mainly code with JavaScript and Node.js, but i am always learning new stuff an
 
 I like doing stuff with:
 
-Frontend Tecnologies
+Frontend Technologies
  - JavaScript
  - React.js
  - CSS 3
@@ -14,7 +14,7 @@ Frontend Tecnologies
  - Chakra UI
  - TailwindCSS
 
-Backend Tecnologies
+Backend Technologies
  - Node.js
  - NestJS
  - Typescript
