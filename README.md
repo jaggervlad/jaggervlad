@@ -7,6 +7,7 @@ I like doing stuff with:
 
 Frontend Technologies
  - JavaScript
+ - Typescript
  - React.js
  - CSS 3
  - HTML 5
@@ -18,6 +19,7 @@ Backend Technologies
  - Node.js
  - NestJS
  - Typescript
+ - Express
  - MongoDB
  - MySQL
  - PostgreSQL
