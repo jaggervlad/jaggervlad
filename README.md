@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I´m Sebastian Acosta Alonso (26yo) a fullstack web developer based in Perú, currently working as a Senior Web Full in [velogig.com](https://velogig.com) .
+I´m Sebastian Acosta Alonso (27yo) a fullstack web developer based in Perú, currently working as a Senior Web Full in [sinapsis.com.pe](https://sinapsis.com.pe) .
 I mainly code with JavaScript and Node.js, but i am always learning new stuff and frameworks.
 
 I like doing stuff with:
