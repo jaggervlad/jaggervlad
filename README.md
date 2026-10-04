@@ -1,18 +1,27 @@
 ### Sebastian Acosta
 
 Backend-leaning fullstack engineer from Pucallpa, Peru.
-I build multi-tenant systems where data isolation is a database guarantee, not a convention.
+I design APIs, data models and multi-tenant systems with TypeScript end to end.
 
-**Currently building** · **Faktian**, a multi-tenant POS and electronic invoicing SaaS for Peruvian businesses (SUNAT).
+#### Backend
 
-- Tenant isolation enforced by PostgreSQL Row-Level Security
-- Modular monolith on NestJS, one repository per module
-- Decimal-safe money handling, end to end
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,graphql,prisma&theme=dark" alt="TypeScript, Node.js, NestJS, Express, GraphQL, Prisma" />
 
-**Stack**
+#### Data & infrastructure
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,redis,prisma,docker,aws,tailwind&theme=dark" alt="TypeScript, Node.js, NestJS, React, PostgreSQL, Redis, Prisma, Docker, AWS, Tailwind" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS" />
 
-**What I care about**
+#### Frontend
 
-Clean and hexagonal architecture · tests that hit a real database · boring, reliable systems
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind&theme=dark" alt="React, Next.js, Angular, Vite, Tailwind CSS" />
+
+#### Tooling
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,pnpm,vitest,neovim&theme=dark" alt="Git, GitHub Actions, pnpm, Vitest, Neovim" />
+
+#### GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaggervlad&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaggervlad&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=jaggervlad&hide_border=true&theme=transparent" alt="Contribution streak" />
