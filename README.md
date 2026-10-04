@@ -1,31 +1,18 @@
-# Hi everyone 👋
+### Sebastian Acosta
 
-I´m Sebastian Acosta Alonso (27yo) a fullstack web developer based in Perú, currently working as a Senior Backend Developer in [indracompany](https://www.indracompany.com) .
-I mainly code with JavaScript and Node.js, but i am always learning new stuff and frameworks.
+Backend-leaning fullstack engineer from Pucallpa, Peru.
+I build multi-tenant systems where data isolation is a database guarantee, not a convention.
 
-I like doing stuff with:
+**Currently building** · **Faktian**, a multi-tenant POS and electronic invoicing SaaS for Peruvian businesses (SUNAT).
 
-Frontend Technologies
- - JavaScript
- - Typescript
- - React.js
- - Next.js
- - Angular
- - CSS 3
- - HTML 5
- - Material UI
- - Chakra UI
- - TailwindCSS
+- Tenant isolation enforced by PostgreSQL Row-Level Security
+- Modular monolith on NestJS, one repository per module
+- Decimal-safe money handling, end to end
 
-Backend Technologies
- - Node.js
- - NestJS
- - Typescript
- - Express
- - MongoDB
- - MySQL
- - PostgreSQL
- - GraphQL
- - Serverless
- - AWS
- - Microservices
+**Stack**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,redis,prisma,docker,aws,tailwind&theme=dark" alt="TypeScript, Node.js, NestJS, React, PostgreSQL, Redis, Prisma, Docker, AWS, Tailwind" />
+
+**What I care about**
+
+Clean and hexagonal architecture · tests that hit a real database · boring, reliable systems
